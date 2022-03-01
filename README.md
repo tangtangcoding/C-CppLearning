@@ -27,3 +27,13 @@
 <div align=center>
 <img src="https://github.com/tangtangcoding/C-C-/blob/main/2.jpg"  width="200" height="200"/>
 </div>
+
+--
+## 电子书：
+
+[程序员相关电子书资料仓库|免费分享](https://github.com/tangtangcoding/C-C-)
+
+## C语言
+
+[C语言最全入门笔记](https://mp.weixin.qq.com/s/JgxmKoXsuiReD_21nd1Pdw)
+[C语言书籍、软件、60个源码](https://mp.weixin.qq.com/s/YSqz5tvUI2oCcib4UoYcjg)
