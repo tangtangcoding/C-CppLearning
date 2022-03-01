@@ -47,7 +47,9 @@ C 语言可以零基础入门，它的语法是很多高级编程语言的基础
 
 - 《C和指针》 深入了解指针，看完以后对指针不再害怕。  
 
-- 《C陷阱与缺陷》 正如书上所说，“本书所揭示的知识，至少能够帮助你减少 C 代码和初级 C++ 代码中 90% 的 Bug”，看完后可以避免 C 语言开发的一些坑。  
+- 《C陷阱与缺陷》 正如书上所说，“本书所揭示的知识，至少能够帮助你减少 C 代码和初级 C++ 代码中 90% 的 Bug”，看完后可以避免 C 语言开发的一些坑。 
+
+需要下载下面电子书的话，直接点击书名，输入提取码！  
 
 
 -  [征服C指针](https://pan.baidu.com/s/1e0zPOp-fhGKKKiILGHx_Ew )  提取码：wwcd 
@@ -98,6 +100,24 @@ C 语言可以零基础入门，它的语法是很多高级编程语言的基础
 - [简述C语言宏定义的使用](https://mp.weixin.qq.com/s/hR-hWz9zJf6j6BkwpWcxuA)  
 - [c语言之共用体union、枚举、大小端模式](https://mp.weixin.qq.com/s/jtT8Z6qOmJcurBSDMFKY2w)  
 
+### 视频推荐：
 
+- [《郝斌C语言自学教程》](https://www.bilibili.com/video/BV1os411h77o?from=search&seid=15026475169248378667)  
+- [序设计入门——C语言（浙大翁恺）](https://www.bilibili.com/video/BV1ME411h75N?p=48)  
+
+### C语言相关小项目及源码
+
+- [大量好玩的C语言程序，训练编程思维，培养解决问题的思路，领略多姿多彩的C语言](https://mp.weixin.qq.com/s/ZUHtQxaahrGjvAZVu5jKKg)  
+- [C语言单元测试框架](https://github.com/google/cmockery)  
+- [CJson：json解码器，C文件只有500行](https://sourceforge.net/projects/cjson/)  
+- [EasyLogger-一款轻量级高性能的日志库](https://gitee.com/Armink/EasyLogger)  
+- [小型Lisp解释器，不超过1000行代码](https://www.buildyourownlisp.com/)  
+- [PAT实验辅助平台](https://pintia.cn/problem-sets?tab=0)  
+- [cwebsocket：一款轻量级websocket库](https://github.com/m8rge/cwebsocket)  
+- [C语言：斗地主的发牌器](https://study.163.com/course/introduction/1321006.htm#/courseDetail)  
+- [C 语言实现通讯录](https://www.lanqiao.cn/courses/125)  
+- [C 语言实现 2048 游戏](https://www.lanqiao.cn/courses/155)  
+- [Tinyhttpd,一个不到 500 行的超轻量型 HTTP Server，可以用来理解服务器程序的原理和本质](https://github.com/EZLippi/Tinyhttpd)  
+- [db_tutorial,用 C 从零创建一个简单的数据库](https://github.com/cstack/db_tutorial)  
 
 
