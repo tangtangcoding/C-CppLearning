@@ -99,11 +99,30 @@ C 语言可以零基础入门，它的语法是很多高级编程语言的基础
 - [原码, 反码, 补码 详解](https://mp.weixin.qq.com/s/01M26CWGktnYmM12tFETDw)  
 - [简述C语言宏定义的使用](https://mp.weixin.qq.com/s/hR-hWz9zJf6j6BkwpWcxuA)  
 - [c语言之共用体union、枚举、大小端模式](https://mp.weixin.qq.com/s/jtT8Z6qOmJcurBSDMFKY2w)  
+- [400 行 C 代码实现一个虚拟机](https://mp.weixin.qq.com/s/09fIouiuCoWC9j9Fzo1a_g)  
+- [C语言中三块难啃的硬骨头](https://mp.weixin.qq.com/s/pLAG4Gr6X55DgQ10COHYJg) 
+- [C/C++ 套接字通信类的封装](https://mp.weixin.qq.com/s/-9sfkIVIFXe6euIQMfLUFA)  
+- [C/C++ 服务器并发](https://mp.weixin.qq.com/s/EN3UiTZbvuWEHPD8fxiVgQ)  
+- [难得啊，C语言/C++基础面试知识大集合](https://mp.weixin.qq.com/s/9fzG9EMitYbthmCjGkXkCQ)  
+- [C/C++动态检测内存错误利器 - ASan](https://mp.weixin.qq.com/s/TrDsapZkxjtIEjt9A343EQ)  
+- [C/C++程序员的编程修养](https://mp.weixin.qq.com/s/CH19z4xU1SW55K5CW59_PQ)  
+- [编写可移植 C/C++ 程序的一些要点](https://mp.weixin.qq.com/s/Q_vCEHmJuF6WB5NsfyHkpw)  
+- [手写线程池 - C语言版](https://mp.weixin.qq.com/s/gdt68vvK7wVLMQviQjSs6g)  
+- [C语言线程库的使用](https://mp.weixin.qq.com/s/nXW7MVLFzbYhuMY-sYhFZg)  
+- [C/C++ 八股文](https://mp.weixin.qq.com/s/z9kqrJvG8BpLklyud4i-dg)  
+- [C/C++ 头文件 “ 细节 ”](https://mp.weixin.qq.com/s/qAxRWE8HCR_nofpoG5QDtQ)  
+- [C/C++ 关于 cJson 库的使用](https://mp.weixin.qq.com/s/096er5n0v8LFe6l8BnQvyg) 
+- [熬夜整理，五万字长文总结 C/C++ 知识点](https://mp.weixin.qq.com/s/0ezk8bIMornLRqiDvinzoQ)  
+- [字符串之正则表达式](https://mp.weixin.qq.com/s/KlXRb2L88StTDd4H9xUMEA)  
+- [详细剖析 extern "C"](https://mp.weixin.qq.com/s/OdJkgNOub1F3I-azLhLyWg)  
+- [一些值得被定义为常用C语言头文件库的漂亮宏定义(值得收藏,以备使用参考)](https://mp.weixin.qq.com/s/LUiE7WSr9IS5URopokikAQ)  
+- [关于堆栈的讲解(我见过的最经典的)](https://mp.weixin.qq.com/s/-igztLayaR_L1HhAwSd7vw)  
+- 
 
 ### 视频推荐：
 
 - [《郝斌C语言自学教程》](https://www.bilibili.com/video/BV1os411h77o?from=search&seid=15026475169248378667)  
-- [序设计入门——C语言（浙大翁恺）](https://www.bilibili.com/video/BV1ME411h75N?p=48)  
+- [程序设计入门——C语言（浙大翁恺）](https://www.bilibili.com/video/BV1ME411h75N?p=48)  
 
 ### C语言相关小项目及源码
 
@@ -119,5 +138,6 @@ C 语言可以零基础入门，它的语法是很多高级编程语言的基础
 - [C 语言实现 2048 游戏](https://www.lanqiao.cn/courses/155)  
 - [Tinyhttpd,一个不到 500 行的超轻量型 HTTP Server，可以用来理解服务器程序的原理和本质](https://github.com/EZLippi/Tinyhttpd)  
 - [db_tutorial,用 C 从零创建一个简单的数据库](https://github.com/cstack/db_tutorial)  
+- [分享10个适合初学者学习的C开源项目代码](https://mp.weixin.qq.com/s/uwSBqS-VGj2PU3ZIp6FlyA)  
 
 
