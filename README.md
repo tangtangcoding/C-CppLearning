@@ -117,12 +117,32 @@ C 语言可以零基础入门，它的语法是很多高级编程语言的基础
 - [详细剖析 extern "C"](https://mp.weixin.qq.com/s/OdJkgNOub1F3I-azLhLyWg)  
 - [一些值得被定义为常用C语言头文件库的漂亮宏定义(值得收藏,以备使用参考)](https://mp.weixin.qq.com/s/LUiE7WSr9IS5URopokikAQ)  
 - [关于堆栈的讲解(我见过的最经典的)](https://mp.weixin.qq.com/s/-igztLayaR_L1HhAwSd7vw)  
-- 
+- [熬夜总结14个秒杀算法题的套路！](https://mp.weixin.qq.com/s/_Hr4nAigU5AeiqzTcTKuNQ)  
+- [面试大全 | C语言高级部分总结](https://mp.weixin.qq.com/s/BCp2xyCBUOPI-2SKDBy5xA)  
+- [C语言干货分享|更高层次编写嵌入式C代码](https://mp.weixin.qq.com/s/b9ywcm2tf_0iunkE3-wq7A)  
+- [C语言编程规范 clean code](https://mp.weixin.qq.com/s/fd-0i2t1Ek31KREF9MZThw)  
+- [C/C++ 位操作详解](https://mp.weixin.qq.com/s/vFeIyJokYTcedQWzblRQHw)  
+- [C语言代码优化方案(深度好文)](https://mp.weixin.qq.com/s/ZeYfnkFk--zA67nrTDCVuw)  
+- [C语言文件操作](https://mp.weixin.qq.com/s/J7Sm6Mh8-dv8r_MlxQo2jw)  
+- [C语言执行效率如何保证，看这一文就够了！](https://mp.weixin.qq.com/s/LRiq8gDpzPpwvd0FMZlt8w)  
+- [头文件防卫式声明](https://mp.weixin.qq.com/s/UjcAdWMoyNycYznhhmhZSw)  
+- [关于可重入函数](https://mp.weixin.qq.com/s/TFSkytqpv2TsBqhVglin5Q)  
+- [浮点数的秘密](https://mp.weixin.qq.com/s/tlcjdXd1rPvs1fHhpKZJCQ)  
+- [听说有人不了解柔性数组](https://mp.weixin.qq.com/s/JPJkSdBkiqKByBITFTA8Jw)  
+- [C 语言实现一个简单的 web 服务器](https://mp.weixin.qq.com/s/ISxqB3NJ8KxOR94VswXprg)  
+- [聊聊我是如何编程入门的](https://mp.weixin.qq.com/s/3vMi2-r8I6Cy3TOs3kDRVA)  
+- [深拷贝与浅拷贝到底是什么](https://mp.weixin.qq.com/s/emgZO229CTrtiJidAojpHA)  
+- [面试中常见的C语言与C++区别的问题](https://mp.weixin.qq.com/s/nHKgWwc0G_fTNdB8yyzjRQ)  
+- [一文读懂C语言与C++动态内存](https://mp.weixin.qq.com/s/CTM26nwzDpRQwUoo3ZukwA)   
+- [OOP 面向对象编程：由 C语言到 C++](https://mp.weixin.qq.com/s/H5jnrOZH8o4E14dufGNnWQ)   
+- [C语言字符串详解](https://mp.weixin.qq.com/s/kEpVW38yMhsvSgfuTKSWmg)  
+- [C语言/C++ 堆栈工作机制](https://mp.weixin.qq.com/s/ar2w4xWzmw4szUg16dzNjA)   
+- [干货 | 深度剖析C语言的main函数](https://mp.weixin.qq.com/s/z5AqgTqpmxc59NqwLMNiqw)  
 
 ### 视频推荐：
 
 - [《郝斌C语言自学教程》](https://www.bilibili.com/video/BV1os411h77o?from=search&seid=15026475169248378667)  
-- [程序设计入门——C语言（浙大翁恺）](https://www.bilibili.com/video/BV1ME411h75N?p=48)  
+- [《程序设计入门——C语言（浙大翁恺）》](https://www.bilibili.com/video/BV1ME411h75N?p=48)  
 
 ### C语言相关小项目及源码
 
