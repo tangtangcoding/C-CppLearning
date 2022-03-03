@@ -33,6 +33,16 @@
 
 [程序员相关电子书资料仓库|免费分享](https://github.com/tangtangcoding/C-C-)
 
+## 知名大学计算机系开源课程收录：
+
+- [浙江大学课程攻略共享计划](https://qsctech.github.io/zju-icicles/)  
+- [清华大学计算机系课程攻略](https://rekcarc-tsc-uht.readthedocs.io/en/latest/)  
+- [上海交通大学课程资料分享](https://github.com/kxxwz/SJTU-Courses)   
+- [北京航空航天大学(北航)课程作业资料共享计划](https://github.com/TheBloodthirster/BUAA_Course_Sharing)  
+- [华北电力大学计算机系课程攻略](https://github.com/IammyselfYBX/NCEPU_CS_course)  
+- [北京邮电大学计算机考研信息汇总](https://ningzimu.github.io/See_you_in_BUPT/) 
+
+
 ## C语言
 C 语言可以零基础入门，它的语法是很多高级编程语言的基础，比如说 Java、C++；并且起到承上启下的作用，向上可以学习高级编程语言，向下可以学习计算机组成原理、操作系统等等偏基础的计算机基础知识。  
 
@@ -223,6 +233,7 @@ C++演化（C++ 98 ->C++ 03 -> C++ 11 -> C++ 14 -> C++20 -> ..... ）
 - [Google 开源项目风格指南——中文版](https://zh-google-styleguide.readthedocs.io/en/latest/google-cpp-styleguide/contents/)  
 
 **C++ 相关电子书和资料:**  
+
 需要下载下面电子书的话，直接点击书名，输入提取码！   
 
 -  [第二套、侯捷老师全系列八部曲 - 手把手教你进阶系列](https://pan.baidu.com/s/1rNfHasapQuwFf_X0nxfJOQ )  提取码：rb16 
@@ -267,6 +278,19 @@ C++演化（C++ 98 ->C++ 03 -> C++ 11 -> C++ 14 -> C++20 -> ..... ）
 -  [C++ Primer-第4版](https://pan.baidu.com/s/1Mxqah7DdcDn4idTfCZT5sA  )  提取码：8gyu
 -  [C++ Primer（第5版）_带书签_高清完整版](https://pan.baidu.com/s/1rlvQYjV7xWQhd7vYhR4yww )  提取码：x6rl 
 -  [C++ Primer Plus](https://pan.baidu.com/s/1X-p7BY5n2SR9_QF5YDyULg )  提取码：i0p7 
+
+### C++ 干货文章
+
+
+
+### C++视频推荐：
+
+- [C++视频学习教程基础篇](https://www.bilibili.com/video/BV18h411Q75D/)   
+- [华郑莉老师视频](https://space.bilibili.com/702528832)  
+- [侯捷C++视频全集与陈硕网络编程](https://mp.weixin.qq.com/s/302poB-agGUSepqNlmi9sQ)  
+- [最好的Qt全套视频教程](https://www.bilibili.com/video/BV1jK4y1m7d4)  
+
+### C++ 开源推荐：
 
 
 
