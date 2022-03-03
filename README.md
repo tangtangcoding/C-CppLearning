@@ -217,10 +217,56 @@ C++演化（C++ 98 ->C++ 03 -> C++ 11 -> C++ 14 -> C++20 -> ..... ）
 - 还有《C++标准库(第2版)》、《C++并发编程实战》、《C++编程思想（两卷合订本）》等，介绍的这些书我都买了，不过说实话，后面的几本都是泛泛的看了下，当作工具书。
 
 
-**其他文档:**
--[华为最牛逼的c++ 基础与提高PDF](https://mp.weixin.qq.com/s/_3VNj3Hh28Eg21_I3Q7vrg)  
+**其他文档:**  
+- [华为最牛逼的c++ 基础与提高PDF](https://mp.weixin.qq.com/s/_3VNj3Hh28Eg21_I3Q7vrg)  
+- [LeetCode101题解](https://wwr.lanzoui.com/iPONZp2zd9e)  
+- [Google 开源项目风格指南——中文版](https://zh-google-styleguide.readthedocs.io/en/latest/google-cpp-styleguide/contents/)  
 
-**C++ 相关电子书和资料:**
+**C++ 相关电子书和资料:**  
+需要下载下面电子书的话，直接点击书名，输入提取码！   
+
+-  [第二套、侯捷老师全系列八部曲 - 手把手教你进阶系列](https://pan.baidu.com/s/1rNfHasapQuwFf_X0nxfJOQ )  提取码：rb16 
+-  [00 - 侯捷系列-全部课件](https://pan.baidu.com/s/1mAH1wMVPyXFHQNckDv16Xw  )  提取码：poo3 
+-  [01、C++面向对象高级编程（上）](https://pan.baidu.com/s/1_FFv0cPEPsxpLw66vmZ3BQ )  提取码：51rd
+-  [01、C++面向对象高级编程（下）](https://pan.baidu.com/s/16OrZgRnGooXeocAoN4dKeg)  提取码：0869 
+-  [00 - 侯捷系列-全部课件](https://pan.baidu.com/s/1mAH1wMVPyXFHQNckDv16Xw  )  提取码：poo3 
+-  [03 - 侯捷-C++设计模式](https://pan.baidu.com/s/1ljhdglrfS6GETAWz9bZQfQ)  提取码：zn8n  
+-  [04 - 侯捷-C++新标准C++11&14](https://pan.baidu.com/s/1qoiG_1ZFi6ulSKGvQFZkSw )  提取码：5jl1 
+-  [05 - 侯捷-C++内存管理机制_60_侯捷](https://pan.baidu.com/s/1UcuXs_eOu-5H-veSbtU4IQ )  提取码：b8b3
+-  [06 - 侯捷-C++ Startup 揭密：C++ 程序的生前和死后](https://pan.baidu.com/s/1_m9kEmUWQNCMoiH7e-WHpw)  提取码：adro 
+-  [07、算法原理与实践（选修）](https://pan.baidu.com/s/18jqE_lNuJHTsSkmCb5Laxw)  提取码：7548 
+-  [08、系统设计与实践（选修）](https://pan.baidu.com/s/16Kr9P2fiUlpq3LlL4Ln5yg )  提取码：697b
+-  [第三套、Linux CC++网络编程实践-陈硕](https://pan.baidu.com/s/1OcymYPgisLPsJLFPpuFSJg)  提取码：wv79
+-  [陈硕 - C++实践工程学](https://pan.baidu.com/s/1tg57seNQmTQGPFxFbFOTdQ  )  提取码：blou 
+-  [易学C++](https://pan.baidu.com/s/1hPL7zN0XyVqfQgVTtlyK6g )  提取码：yiwo 
+-  [提高C++性能的编程技术.左飞](https://pan.baidu.com/s/1wfBHSsOPuG4hIAI4KC-C_Q )  提取码：anft   
+-  [深入理解C++11](https://pan.baidu.com/s/1GV2HvK41eTjDMs2huX-DYw)  提取码：py26 
+-  [深度探索C++对象模型](https://pan.baidu.com/s/1UeCtZpL_I33IahDlWNzvFQ)  提取码：0v2p  
+-  [侯捷STL课件](https://pan.baidu.com/s/1nbL2yzl6aPi3kR5w-CjVjA )  提取码：fuuh 
+-  [跟我一起写makefile](https://pan.baidu.com/s/1M0NmPBPZxrZq0o0m7_7gPA )  提取码：k090 
+-  [大话设计模式C++](https://pan.baidu.com/s/1r_twlwt7NmYSM09LVAS8ag  )  提取码：r1wi 
+-  [陈硕 - C++实践工程学](https://pan.baidu.com/s/1YmxlyHXTXOnXA_XvhweqUA)  提取码：dgy4 
+-  [STL源码剖析+源码](https://pan.baidu.com/s/1cip_DvjiaomxMOxTofqAtA)  提取码：nkcl 
+-  [Modern C++ Design](https://pan.baidu.com/s/1kJmaP8NF0gxkJr7NgdZ8Mg )  提取码：t1kk 
+-  [Effective-C++-第二版](https://pan.baidu.com/s/1zjy1JRGZXn-rwfIkUlunDQ  )  提取码：vy1b 
+-  [Effective STL中文版](https://pan.baidu.com/s/1_0dRltY1HAYRine3MaRDJA  )  提取码：t3gy 
+-  [Effective C++  第三版 高清PDF](https://pan.baidu.com/s/1QcOXHAJT7IpA6-UXOvTvag )  提取码：bd36 
+-  [C++设计新思维-泛型编程与设计之应用](https://pan.baidu.com/s/1zl_OWNTSn4infueomtQhdQ )  提取码：7gew 
+-  [C++工程实践经验课](https://pan.baidu.com/s/1sOpVEU9m7RwcRzTzvHugNg )  提取码：o5v4 
+-  [C++对象模型](https://pan.baidu.com/s/1nrhoEgVIiFJCebvciD6uiw )  提取码：azv9 
+-  [C++大学教程](https://pan.baidu.com/s/14g4vGDiTrcWeY0f-LPRpqA  )  提取码：012g 
+-  [C++程序设计语言](https://pan.baidu.com/s/1qKkfideylmnSeKBt8yjdnQ )  提取码：abu1 
+-  [C++沉思录中文第2版](https://pan.baidu.com/s/1_1upGAMJmjEtCVex593XIA )  提取码：o88v 
+-  [C++并发编程实战](https://pan.baidu.com/s/1HX3vAzkp6q0oPqlwU3K_Mg)  提取码：fuj8 
+-  [C++标准程序库](https://pan.baidu.com/s/13LcniMz8UPxAJPxsZqeP7A )  提取码：318m 
+-  [C++编程调试秘笈](https://pan.baidu.com/s/1Wuac8u3x8kwcfJuGjz6pDw )  提取码：8ool 
+-  [C++编程思想（两卷合订本）](https://pan.baidu.com/s/1XpBB-AMrNpZR_2wYpXY-Vw  )  提取码：ekkz
+-  [C++编程规范-101条规则准则与最佳实践](https://pan.baidu.com/s/1-qMz_AWH6LBxJsOp8S2lRw )  提取码：0o6k 
+-  [C++Primer 5th 英文版](https://pan.baidu.com/s/1LAdu9NA8zFCQu6mUhJv1gQ )  提取码：cxmu
+-  [C++ Primer习题集](https://pan.baidu.com/s/1J2ASpvZiJLKSonyDVyR5pg)  提取码：lvmx 
+-  [C++ Primer-第4版](https://pan.baidu.com/s/1Mxqah7DdcDn4idTfCZT5sA  )  提取码：8gyu
+-  [C++ Primer（第5版）_带书签_高清完整版](https://pan.baidu.com/s/1rlvQYjV7xWQhd7vYhR4yww )  提取码：x6rl 
+-  [C++ Primer Plus](https://pan.baidu.com/s/1X-p7BY5n2SR9_QF5YDyULg )  提取码：i0p7 
 
 
 
