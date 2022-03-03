@@ -281,6 +281,12 @@ C++演化（C++ 98 ->C++ 03 -> C++ 11 -> C++ 14 -> C++20 -> ..... ）
 
 ### C++ 干货文章
 
+- [STL总结与常见面试题+资料](https://mp.weixin.qq.com/s/0qdya1iTrAd2TbatT6zM2g)  
+- [一定用得到的免费C++资源集合，值得收藏](https://mp.weixin.qq.com/s/OurC9r-7KQR20yh2fUwYyg)  
+- [精选 30 个 C++ 面试题（含解析）](https://mp.weixin.qq.com/s/eCoDUsDZHBhcb1SJhkYtZQ)  
+- [值得收藏的几个 C/C++ 学习网站](https://mp.weixin.qq.com/s/hedIn_0aAm84uO1L-eL-NQ)  
+- [如何优雅地利用C++编程从1乘到20？](https://mp.weixin.qq.com/s/pJPHgTzQ7MYuOJ4ZL5gAtQ)  
+- [C/C++ 中的 #pragma once 作用是什么？](https://mp.weixin.qq.com/s/2CPb0voypyf5tpx37S7hnQ)  
 
 
 ### C++视频推荐：
@@ -293,6 +299,6 @@ C++演化（C++ 98 ->C++ 03 -> C++ 11 -> C++ 14 -> C++20 -> ..... ）
 ### C++ 开源推荐：
 
 
-
+马不停蹄的更新中。。。。。
 
 
