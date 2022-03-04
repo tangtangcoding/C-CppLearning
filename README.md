@@ -288,14 +288,17 @@ C++演化（C++ 98 ->C++ 03 -> C++ 11 -> C++ 14 -> C++20 -> ..... ）
 
 - [一文让你学完C++，干货收藏！！！](https://mp.weixin.qq.com/s/HxQjYzhqXeKwiQWy_jKFIA)  
 - [2022最稳C/C++学习路线](https://mp.weixin.qq.com/s/e0QsJcfHf6WLCMp1wpg9ig)  
+- [呐，这不就是你要的C++后台开发学习路线吗？](https://mp.weixin.qq.com/s/OQy7h-gfGIGk1Bl23ViQUw) 
+- [这才是你需要的C语言、C++学习路线！](https://mp.weixin.qq.com/s/uK1nwc7B54eUjCMba1uM4g)   
 - [校招｜ C++ 后台开发学习路线](https://mp.weixin.qq.com/s/inRmCrVp0IHtxG9B8XZIfA)  
 - [STL总结与常见面试题+资料](https://mp.weixin.qq.com/s/0qdya1iTrAd2TbatT6zM2g)  
 - [一定用得到的免费C++资源集合，值得收藏](https://mp.weixin.qq.com/s/OurC9r-7KQR20yh2fUwYyg)  
 - [两万字总结《C++ Primer》要点](https://mp.weixin.qq.com/s/l2e8PLoZVpormYJlCm4kwA)  
 - [深度探索C++对象模型笔记](https://mp.weixin.qq.com/s/Zb_DAt5N1JJvxBXuYjLB2w)  
 - [Effective C++学习笔记](https://mp.weixin.qq.com/s/Sn-AeA41-ZjLzCMtmNnx_A)  
-- [C/C++框架和第三方库汇总](https://mp.weixin.qq.com/s/OO0K-fahKxe8-6RZ1FvOQw)    
-- [精选 30 个 C++ 面试题（含解析）](https://mp.weixin.qq.com/s/eCoDUsDZHBhcb1SJhkYtZQ)  
+- [C/C++框架和第三方库汇总](https://mp.weixin.qq.com/s/OO0K-fahKxe8-6RZ1FvOQw)   
+- [万字长文系统梳理C++函数指针](https://mp.weixin.qq.com/s/EMVJ-SJbySIAnwlWeImeWQ)
+- [学过 C++ 的你，不得不知的这 10 条细节！](https://mp.weixin.qq.com/s/sVIQVNmXSB3-Itr7mNasoQ)     
 - [值得收藏的几个 C/C++ 学习网站](https://mp.weixin.qq.com/s/hedIn_0aAm84uO1L-eL-NQ)  
 - [假如C++是一只箭，你会用它来射哪只雕？| 就业岗位分享](https://mp.weixin.qq.com/s/vFp7-qf6IbNVvnKiWfB9pw)  
 - [如何优雅地利用C++编程从1乘到20？](https://mp.weixin.qq.com/s/pJPHgTzQ7MYuOJ4ZL5gAtQ)  
@@ -306,7 +309,6 @@ C++演化（C++ 98 ->C++ 03 -> C++ 11 -> C++ 14 -> C++20 -> ..... ）
 - [看完这 7 条，模拟 C++ 新功能只是一个小目标！](https://mp.weixin.qq.com/s/0I_tD3y0zUZVW2ZcMpgmmQ)  
 - [硬核 | C++ 基础大全](https://mp.weixin.qq.com/s/qQp_tmorfXV3b17_R9wi4Q)  
 - [C++模板总结](https://mp.weixin.qq.com/s/M5fSiJldrfnIuosk6ZzN0A)  
-- [腾讯 C++ 笔试/面试题及答案](https://mp.weixin.qq.com/s/lX9mmmRecu2gw84xkInsww) 
 - [C++ 读取 UTF-8 及 GBK 系列的文本方法及原理](https://mp.weixin.qq.com/s/_k7Cm-WnWpWjo2FL7rLqIw)   
 - [C++ 日期和时间编程](https://mp.weixin.qq.com/s/XSC6W7M2WWoiES4auCpVBg)  
 - [C++ 编程习惯与编程要点](https://mp.weixin.qq.com/s/Y-AjsYYnXrhiagBSKEXtTQ)  
@@ -337,7 +339,6 @@ C++演化（C++ 98 ->C++ 03 -> C++ 11 -> C++ 14 -> C++20 -> ..... ）
 - [C++ 学习笔记](https://mp.weixin.qq.com/s/6JgrV4BZYxokRy4RWvdx8Q)  
 - [一起探索C++类内存分布](https://mp.weixin.qq.com/s/nBemv1mfzB471lVjho0RMA)  
 - [【最佳实践】C++陷阱与套路](https://mp.weixin.qq.com/s/SEX4zzAnrBc0F9vV0a0Tfw)  
-- [一位大佬对于 Qt 学习的最全总结（三万字干货）](https://mp.weixin.qq.com/s/z0QY26H2nhlQyhMrlx01xg)  
 - [泛型Lambda，如此强大！](https://mp.weixin.qq.com/s/fZlSPdbyGofuT6-Wy_vJsg)  
 - [架构思维：如何让写程序像搭积木一样轻松？](https://mp.weixin.qq.com/s/UEoLqC3q2Yg-JPLc0jO1ow)  
 - [打工人万字讲清软件性能优化](https://mp.weixin.qq.com/s/atf3XlF9MF0MKNt8yHYFdg)  
@@ -353,7 +354,6 @@ C++演化（C++ 98 ->C++ 03 -> C++ 11 -> C++ 14 -> C++20 -> ..... ）
 - [if-else和switch-case哪个效率更高？看这四张图。](https://mp.weixin.qq.com/s/zZ2O1tamQ6NDMneu9kKZRQ)  
 - [谈谈 C++ 单例模式](https://mp.weixin.qq.com/s/bv1danVw0cgtFOKofVlyeA)  
 - [亲身体验！后端工程师学习路径、书籍、视频推荐](https://mp.weixin.qq.com/s/vYKgLYzvzyQp3qdCrP5giA)  
-- [TCP数据粘包的处理](https://mp.weixin.qq.com/s/WacXXMUKD-O8iFvEodpoOA)  
 - [C++常见的三种内存破坏的场景和分析](https://mp.weixin.qq.com/s/uG4R-oSjf2AO-OVm2A1rPw)  
 - [你踩过几种C++内存泄露的坑？](https://mp.weixin.qq.com/s/8h_ek1NLE9mOKdA2WiOoQw)  
 - [内存池设计与实现](https://mp.weixin.qq.com/s/_eKL38Mpj2FwbYqPeT0zCA)  
@@ -380,34 +380,35 @@ C++演化（C++ 98 ->C++ 03 -> C++ 11 -> C++ 14 -> C++20 -> ..... ）
 - [C++中是如何调用C接口的？](https://mp.weixin.qq.com/s/NNJyZtQaLkbGSbhLkDZZIg)  
 - [C++编码优化之减少冗余拷贝或赋值](https://mp.weixin.qq.com/s/6S95N763ZbTFm65jt9z4lg)  
 - [计算机为什么要用补码？](https://mp.weixin.qq.com/s/yxCUKm7oGHEV8eADDHlB5g)  
-- [3万字Linux总结](https://mp.weixin.qq.com/s/f5qjGkCBEtDJrw6FOR1Knw)    
 - [生成随机数的方式你选对了吗？](https://mp.weixin.qq.com/s/dQTl0Xqzd1agvUpIlAuhgw)   
 - [总结了24个C++的大坑，看你能躲过几个？](https://mp.weixin.qq.com/s/wJW0DLO2LuBKZ0tMihh0Zw)  
 - [这些知识点你都知道吗，测试你的C++入门程度](https://mp.weixin.qq.com/s/t91aaV2-QGj3sGpayP3SnQ)  
 - [超硬核 | 2 万字+20 图带你手撕 STL 序列式容器源码](https://mp.weixin.qq.com/s/Xl7mrv5utdPXYEebv8WwHA)  
+- [浅析C++智能指针和enable_shared_from_this 机制](https://mp.weixin.qq.com/s/qWL_UDbErmQLUHw8wNXvGw)  
 - [经典永不过时！重温设计模式](https://mp.weixin.qq.com/s/DgnYYWSKMItSbe_e34ukQQ)  
 - [全网首发！！C++20新特性全在这一张图里了](https://mp.weixin.qq.com/s/Za8hUHOqVUm3EvE1W-NZ9g)  
 - [C++的最后一道坎|百万年薪的程序员](https://mp.weixin.qq.com/s/lEvFZiD-_RBYOTWNmb2SMA)  
 - [C++模版的本质](https://mp.weixin.qq.com/s/7gC9T0rSM9honWrmawYpkw)  
-- [10 个内存引发的大坑，你能躲开几个？](https://mp.weixin.qq.com/s/EJ2h7lApmFxNgxqj7BKSpQ)  
-- [23种设计模式的通俗解释，看完秒懂](https://mp.weixin.qq.com/s/iUllkGYI4YZDjJidHj-xnA)  
+- [10 个内存引发的大坑，你能躲开几个？](https://mp.weixin.qq.com/s/EJ2h7lApmFxNgxqj7BKSpQ)   
 - [C++内存管理全景指南](https://mp.weixin.qq.com/s/rvNF6FRo3QD4Xvj9RfV5Tw)  
 - [9个提高代码运行效率的小技巧你知道几个？](https://mp.weixin.qq.com/s/4DpErJGcpY0TD9l6mB8IEw)  
+- [精选 30 个 C++ 面试题（含解析）](https://mp.weixin.qq.com/s/eCoDUsDZHBhcb1SJhkYtZQ)  
+- [腾讯 C++ 笔试/面试题及答案](https://mp.weixin.qq.com/s/lX9mmmRecu2gw84xkInsww) 
+- [C++ 万字长文第一篇---拿下字节面试](https://mp.weixin.qq.com/s/HKDfeufP5Qdd3aOOb2HUXQ)  
 - [《逆袭进大厂》之C++篇49问49答(绝对的干货)](https://mp.weixin.qq.com/s/HhK07ERK0qoBaIl6uyDrHw)  
-- [加密与解密](https://mp.weixin.qq.com/s/wRo9UyOAQxT1gSE6jVkPKQ)  
+- [《逆袭进大厂》第二弹之C++进阶篇59问59答(超硬核干货)](https://mp.weixin.qq.com/s/JAks8CXr1t-X3BkPtsKRpQ)  
+- [《逆袭进大厂》之C++提高篇79问79答](https://mp.weixin.qq.com/s/JEwjRYlgB9HTawu11eycnQ)  
 - [自己动手实现一个malloc内存分配器 | 30图](https://mp.weixin.qq.com/s/T1084cymO-XWuSVLnguMuw)  
-- [浅析C++智能指针和enable_shared_from_this 机制](https://mp.weixin.qq.com/s/qWL_UDbErmQLUHw8wNXvGw)  
 - [现代C++之手写智能指针](https://mp.weixin.qq.com/s/YrCI5oCRha501BZSI59WeA)  
 - [10张图22段代码，万字长文带你搞懂虚拟内存模型和malloc内部原理](https://mp.weixin.qq.com/s/yIjVZfS4KzR3bJyBFPxvZQ)  
 - [面试系列之C++的对象布局【建议收藏】](https://mp.weixin.qq.com/s/YUrGmRZeA4YyOxsSS_UMyQ)  
-
-
-
-
-
-
-
-
+- [c++代码整洁之道](https://mp.weixin.qq.com/s/WYu3zEyvH-BkV8p5Ofw5_Q)  
+- [源码分析C++的string的实现](https://mp.weixin.qq.com/s/olfCAm9QmJd60TMbSBYU5w)  
+- [23种设计模式的通俗解释，看完秒懂](https://mp.weixin.qq.com/s/iUllkGYI4YZDjJidHj-xnA) 
+- [一位大佬对于 Qt 学习的最全总结（三万字干货）](https://mp.weixin.qq.com/s/z0QY26H2nhlQyhMrlx01xg)  
+- [3万字Linux总结](https://mp.weixin.qq.com/s/f5qjGkCBEtDJrw6FOR1Knw)    
+- [加密与解密](https://mp.weixin.qq.com/s/wRo9UyOAQxT1gSE6jVkPKQ)  
+- [TCP数据粘包的处理](https://mp.weixin.qq.com/s/WacXXMUKD-O8iFvEodpoOA)  
 
 
 ### C++视频推荐：
@@ -418,6 +419,8 @@ C++演化（C++ 98 ->C++ 03 -> C++ 11 -> C++ 14 -> C++20 -> ..... ）
 - [最好的Qt全套视频教程](https://www.bilibili.com/video/BV1jK4y1m7d4)  
 
 ### C++ 开源推荐：
+
+
 
 
 马不停蹄的更新中。。。。。
