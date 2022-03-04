@@ -422,6 +422,22 @@ C++演化（C++ 98 ->C++ 03 -> C++ 11 -> C++ 14 -> C++20 -> ..... ）
 
 - [FreeNOS](https://github.com/Neirth/FreeNOS):深入理解C++，以及操作系统原理。FreeNOS（Free Niek的操作系统）是一个基于C++的基于微内核的学习操作系统。这是一个用C++实现的微内核的操作系统，各种宏内核中的服务作为一个独立的services在微内核中，基于消息的通信方式，这点其实跟mac内核中的mach那部分机制相似。  
 - [Boost](https://www.boost.org/):Boost 库是一个经过千锤百炼、可移植、提供源代码的C++ 库，作为标准库的后备，是C++ 标准化进程的发动机之一。 Boost 库由C++标准委员会库工作组成员发起，在C++ 社区中影响甚大，其成员已近2000 人。 Boost 库为我们带来了最新、最酷、最实用的技术，是不折不扣的“ 准” 标准库。
+- [muduo](https://github.com/AlexStocks/muduo):一个基于 Reactor 模式的现代 C++ 网络库，它采用非阻塞 IO 模型，基于事件驱动和回调，支持多核多线程，适合编写 Linux 服务端多线程网络应用程序。   
+- [libevent](https://github.com/libevent/):一个是轻量级的网络库.
+- [log4cpp](https://sourceforge.net/p/log4cplus/wiki/Home/):日志库， 支持多线程， 日志重定向到网络等都有， 反正你能想到的日志的功能， 都有。
+- [OpenSSL](https://www.openssl.org/source/):OpenSSL 包含一个命令行工具用来完成OpenSSL 库中的所有功能，更好的是，它可能已经安装到你的系统中了。
+- [wfrest](https://github.com/wfrest/wfrest):简单高效的c++11异步restful网络框架。
+- [workflow](https://github.com/sogou/workflow):当前最火最简洁好用的c++异步网络库workflow。
+- [modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial):modern-cpp-tutorial 是现代 C++ 教程，它的目的是提供关于现代 C++（2020 年前）的相关特性的全面介绍。
+- [MyTinySTL](https://github.com/Alinshans/MyTinySTL):用 C++11 重新复写了一个小型 STL（容器库＋算法库）。代码结构清晰规范、包含中文文档与注释，并且自带一个简单的测试框架，适合 C++ 新手来实践一番。
+- [Tinytetris](https://link.zhihu.com/?target=https%3A//github.com/taylorconor/tinytetris):Tinytetris 是一个用 C++ 编写的终端版俄罗斯方块游戏。它提供了两个版本的源码，分为注释版和库版，注释较多易于理解和学习。
+- [calculator]():
+
+## 操作系统
+
+## 计算机网络 
+
+## 数据库
 
 
 马不停蹄的更新中。。。。。
