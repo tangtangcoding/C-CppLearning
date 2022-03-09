@@ -447,7 +447,7 @@ C++演化（C++ 98 ->C++ 03 -> C++ 11 -> C++ 14 -> C++20 -> ..... ）
 
 如果心情好，不介意赞赏一下，祝君 bug 退散
 <div align=center>
-<img src="https://github.com/tangtangcoding/C-C-/blob/main/6.jpg" width="300" height="500" />
+<img src="https://github.com/tangtangcoding/C-C-/blob/main/6.jpg" width="300" height="450" />
 </div>
 
 
