@@ -42,6 +42,11 @@
 - [华北电力大学计算机系课程攻略](https://github.com/IammyselfYBX/NCEPU_CS_course)  
 - [北京邮电大学计算机考研信息汇总](https://ningzimu.github.io/See_you_in_BUPT/) 
 
+-[牛客网C语言入门](https://www.nowcoder.com/exam/oj?tab=%E8%AF%AD%E6%B3%95%E7%AF%87&topicId=291&fromPut=pc_gzh_SantiagoN_c)
+-[牛客网算法入门](https://www.nowcoder.com/exam/oj?fromPut=pc_gzh_SantiagoN_sf)
+-[牛客网C++入门](https://www.nowcoder.com/exam/oj?tab=%E8%AF%AD%E6%B3%95%E7%AF%87&topicId=225&fromPut=pc_gzh_SantiagoN_cplus
+-[牛客网算法入门](https://www.nowcoder.com/exam/oj?fromPut=pc_gzh_SantiagoN_sf)
+
 
 ## C语言
 C 语言可以零基础入门，它的语法是很多高级编程语言的基础，比如说 Java、C++；并且起到承上启下的作用，向上可以学习高级编程语言，向下可以学习计算机组成原理、操作系统等等偏基础的计算机基础知识。  
