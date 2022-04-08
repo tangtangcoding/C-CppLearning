@@ -46,6 +46,8 @@
 - [牛客网算法入门与刷题](https://www.nowcoder.com/exam/oj?fromPut=pc_gzh_SantiagoN_sf)  
 - [牛客网C++入门](https://www.nowcoder.com/exam/oj?tab=%E8%AF%AD%E6%B3%95%E7%AF%87&topicId=225&fromPut=pc_gzh_SantiagoN_cplus)  
 - [牛客网SQL入门与进阶](https://www.nowcoder.com/exam/oj?tab=SQL%E7%AF%87&topicId=199&fromPut=pc_gzh_SantiagoN_sql)  
+- [牛客网java入门与进阶](https://www.nowcoder.com/exam/oj?tab=%E8%AF%AD%E6%B3%95%E7%AF%87&topicId=220&fromPut=pc_gzh_sandmanrockN_java)  
+
 
 
 ## C语言
