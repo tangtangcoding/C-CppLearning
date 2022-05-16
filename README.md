@@ -48,7 +48,13 @@
 - [北京航空航天大学(北航)课程作业资料共享计划](https://github.com/TheBloodthirster/BUAA_Course_Sharing)  
 - [华北电力大学计算机系课程攻略](https://github.com/IammyselfYBX/NCEPU_CS_course)  
 - [北京邮电大学计算机考研信息汇总](https://ningzimu.github.io/See_you_in_BUPT/) 
+- 
 
+强烈推荐开源刷题库，可以注册一个，现在免费，后面可能要收费。
+
+- [点击免费注册](https://www.nowcoder.com/exam/oj?fromPut=pc_zh_n_Santiago_sf)  
+
+注：这里只是注册的入口，可以刷算法、C/C++、Java、硬件、前段等，当然还有大厂面经，面试真题，推荐大家注册，以后多刷刷题。修炼好内功！
 
 
 ## C语言
