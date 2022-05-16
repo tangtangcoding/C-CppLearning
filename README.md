@@ -11,7 +11,7 @@
 
 强烈推荐开源刷题库，可以注册一个，现在免费，后面可能要收费。
 
-- [点击免费注册](https://www.nowcoder.com/exam/oj?fromPut=pc_zh_n_Santiago_sf)  
+- [点击免费注册](https://www.nowcoder.com/exam/oj?tab=%E7%AE%97%E6%B3%95%E7%AF%87&topicId=295&fromPut=pc_zh_s_13004091102_suanfa)  
 
 注：这里只是注册的入口，可以刷算法、C/C++、Java、硬件、前段等，当然还有大厂面经，面试真题，推荐大家注册，以后多刷刷题。修炼好内功！
 
@@ -52,7 +52,7 @@
 
 强烈推荐开源刷题库，可以注册一个，现在免费，后面可能要收费。
 
-- [点击免费注册](https://www.nowcoder.com/exam/oj?fromPut=pc_zh_n_Santiago_sf)  
+- [点击免费注册](https://www.nowcoder.com/exam/oj?tab=%E7%AE%97%E6%B3%95%E7%AF%87&topicId=295&fromPut=pc_zh_s_13004091102_suanfa)  
 
 注：这里只是注册的入口，可以刷算法、C/C++、Java、硬件、前段等，当然还有大厂面经，面试真题，推荐大家注册，以后多刷刷题。修炼好内功！
 
