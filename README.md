@@ -196,7 +196,7 @@ C 语言可以零基础入门，它的语法是很多高级编程语言的基础
 
 ### C语言相关小项目及源码
 
-- [大量好玩的C语言程序，训练编程思维，培养解决问题的思路，领略多姿多彩的C语言](https://mp.weixin.qq.com/s/ZUHtQxaahrGjvAZVu5jKKg)  
+- [60个好玩的C语言程序，训练编程思维，培养解决问题的思路，领略多姿多彩的C语言](https://mp.weixin.qq.com/s/ZUHtQxaahrGjvAZVu5jKKg)  
 - [The Algorithms - C](https://github.com/TheAlgorithms/C#the-algorithms---c--mainpage)  
 - [C语言PAT练习](https://pintia.cn/problem-sets?tab=0)  
 - [Learn-Algorithms](https://github.com/nonstriater/Learn-Algorithms)  
