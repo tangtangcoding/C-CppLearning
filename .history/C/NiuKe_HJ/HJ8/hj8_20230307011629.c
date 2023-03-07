@@ -19,7 +19,7 @@ int cmp(const void* e1, const void* e2) {
 
 int main() {
     int n;
-    
+    vec
     while (scanf("%d", &n) != EOF) {
         KeyVal tmp[n], t;
         int i, j;
