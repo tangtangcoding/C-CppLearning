@@ -3,6 +3,8 @@
         "*.tcc": "cpp",
         "istream": "cpp",
         "iostream": "cpp",
-        "stdio.h": "c"
-    }
+        "stdio.h": "c",
+        "stdbool.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
 }
